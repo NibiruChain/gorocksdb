@@ -1,4 +1,4 @@
-module github.com/cosmos/gorocksdb
+module github.com/tecbot/gorocksdb
 
 go 1.17
 
