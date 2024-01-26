@@ -14,7 +14,7 @@ cp /rocksdb/librocksdb.a /out
 ## Tar librocksdb.a
 
 ```bash
-tar -czvf librocksdb_8.5.3_linux_arm64.tar.gz librocksdb.a
+tar -czvf librocksdb_8.9.1_linux_arm64.tar.gz librocksdb.a
 ```
 
 ## Build Mac Universal Static Library
